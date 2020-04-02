@@ -1,17 +1,23 @@
 # Number of days of inactivity before an issue becomes stale
 daysUntilStale: 50
 # Number of days of inactivity before a stale issue is closed
-daysUntilClose: 7
+daysUntilClose: 10
 # Issues with these labels will never be considered stale
 exemptLabels:
+  - bug
   - pinned
-  - security
+  - documentation
+  - enhancement
+  - good first issue
+  - help wanted
+  - mirror request
+  - question
 # Label to use when marking an issue as stale
-staleLabel: wontfix
+staleLabel: old and stale
 # Comment to post when marking an issue as stale. Set to `false` to disable
 markComment: >
-  If this issue is no longer to use,it will be closed in 7 days.
-  Thanks for your contribution.
-  (reply to unmark)
+  If this issue is no longer to use,it will be closed in 10 days.
+  Thanks for your contribution.(bot)
+  (if anyone reply will unmark as stale)
 # Comment to post when closing a stale issue. Set to `false` to disable
 closeComment: false
