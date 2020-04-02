@@ -20,4 +20,7 @@ markComment: >
   Thanks for your contribution.(bot)
   (if anyone reply will unmark as stale)
 # Comment to post when closing a stale issue. Set to `false` to disable
-closeComment: false
+closeComment: >
+  Your issue has been archived because it's 60 days no longer to use.
+  Thanks for your contribution.(bot)
+  Note:you can reopen this issue.
