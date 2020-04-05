@@ -1,3 +1,5 @@
+### New gitter availble.  [![Gitter](https://badges.gitter.im/issues-chat/community.svg)](https://gitter.im/issues-chat/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+-----
 # Issuetracker      [![ppa2](https://img.shields.io/badge/Issue%20state-Welcome(click%20to%20submit)-brightgreen?style=for-the-badge)](https://github.com/sysdl132/issuetracker/issues)
 #### Status:
 Issues open: [![b1](https://img.shields.io/github/issues-raw/sysdl132/issuetracker?style=flat-square)]()
