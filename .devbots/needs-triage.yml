@@ -1,4 +1,4 @@
 enabled: true
-label: "triage"
+label: "not checked"
 delay: 30
 skip_when_has_assignee: true
