@@ -1,0 +1,6 @@
+enabled: true
+comment: >
+  Any pulls will be closed and
+  locked.Please open issues 
+  only.
+  =comment permission is denied=
