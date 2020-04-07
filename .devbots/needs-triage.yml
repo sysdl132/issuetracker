@@ -1,0 +1,4 @@
+enabled: true
+label: "triage"
+delay: 30
+skip_when_has_assignee: true
